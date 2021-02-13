@@ -1,0 +1,34 @@
+id;Navn;Vop;Vned;Vplan;alder(år)
+1;Søren Tunberg Albertsen;9;14;11;19
+2;Jacop Gervi Androbsen;8;13;11;39
+3;Anders Brokhus Casperen;7;12;12;18
+4;Goth Fromberg Caspersen;6;13;12;19
+5;Anders William Didriksen;7;12;11;20
+6;Hannigan Danielsen;9;16;12;20
+7;Jørgen Kølle Danielsen;8;14;13;39
+8;Vanvid Kladimir Alexanderdal Vielsgaard;9;12;12;18
+9;Umil Forrest Glumb;4;11;8;67
+10;Ville-Lime Emmestoft;2;15;10;61
+11;Mabrizio Roaquin Gaard-Junk Godriguez;2;10;9;66
+12;Didrik Fam Deldborg;9;15;12;23
+13;Lundallaren Frederiksen;8;12;12;19
+14;Sederik Grandmark Føbye;9;13;11;18
+15;Fredevrikker Wanna-Be Vittig;4;10;9;71
+16;Pustav Gilemand;3;14;11;82
+17;Hal-Bal Hamidson;2;11;9;76
+18;Tandsten Janecher Nikotin;9;14;10;14
+19;Peder Dillermann Jonassen;3;11;9;68
+20;Marie Kamillamus Rasmissen;3;15;11;55
+21;Bergmann Kværker Kasper;2;11;8;67
+22;Ballelunde Koger Laurbær;7;13;11;23
+23;Rebecca Paulinemus Lorinesen;8;11;13;15
+24;Nurmal Martinson ;6;14;9;50
+25;Vestas Makiel Bakstad;2;10;9;77
+26;Haagen Øller Mikkelsen;4;10;9;45
+27;Roeløkke Santa-Nicklas Schiøttson;3;14;12;50
+28;Lars Oliversen;5;13;10;50
+29;Birger Hoff-Sand Oskarsen;3;11;10;51
+30;Tons-Dahl Sebastian Bergson;2;13;9;56
+31;Bødsen-Haven Tobias-Wadtsen;9;13;9;29
+32;Knud Tabios Lolksen;3;10;9;99
+33;Fokod Bajer Toresen;9;14;13;17
