@@ -54,7 +54,7 @@ namespace Mat2Code_HTXAS___Running_Games
             double Dnedkm;
             double tid;
             string deltagerlinje;
-            string[] lines = System.IO.File.ReadAllLines(@"1_G_mat_2020_1_1_tekst_final_1.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"1_G_mat_2020_1_1_tekst_final_2.txt");
 
             for (int i = 1; i < 34; i++)
             {
